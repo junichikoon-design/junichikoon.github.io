@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search research</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+</head>
+<body>
+    <main class="container">
+        <hgroup>
+            <h1>Search research for "{{keyword}}" : </h1>
+            <a target="_blank" href="/export_weworkremotely?keyword={{keyword}}">Export to file</a>
+        </hgroup>
+        <figure>
+            <table class="striped">
+                <thead data-theme="light">
+                    <tr>
+                        <th>Title</th>
+                        <th>Company</th>
+                        <th>Location</th>
+                        <th>Keywords</th>
+                        <th>Category</th>
+                        <th>Link</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for job in jobs %}
+                    <tr>
+                        <td>{{job.title}}</td>
+                        <td>{{job.company}}</td>
+                        <td>{{job.location}}</td>
+                        <td>{{job.keyword_list}}</td>
+                        <td>{{job.category}}</td>
+                        <td><a href = "{{job.link}}" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </figure>
+
+        
+    </main>
+    
+</body>
+</html>
