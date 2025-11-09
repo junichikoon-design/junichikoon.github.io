@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search research</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+</head>
+<body>
+    <main class="container">
+        <hgroup>
+            <h1>Search research for "python" : </h1>
+            <a target="_blank" href="/export_berlinstartupjobs?keyword=python">Export to file</a>
+        </hgroup>
+        <figure>
+            <table class="striped">
+                <thead data-theme="light">
+                    <tr>
+                        <th>Title</th>
+                        <th>Company</th>
+                        <th>Description</th>
+                        <th>Keywords</th>
+                        <th>Link</th>
+                    </tr>
+                </thead>
+                <tbody>
+                
+                    <tr>
+                        <td>Senior Fullstack Developer (Typescript / Javascript / Node.js)</td>
+                        <td>DATATRONiQ</td>
+                        <td>
+			🚀 DATATRONiQ is a deep-tech 💪 startup for the Industrial IoT in Germany. Our platform offers a one-stop solution for manufacturing companies to monitor and optimize their machines and processes. Our device management and data acquisition technology generates high-quality data for our AI models deployed on the edge. We value collaboration, honest feedback, and continuous...		</td>
+                        <td>[&#39;Backend&#39;, &#39;Data Science&#39;, &#39;Deep tech&#39;, &#39;Docker&#39;, &#39;Frontend&#39;, &#39;Fullstack&#39;, &#39;Go&#39;, &#39;Golang&#39;, &#39;JavaScript&#39;, &#39;Kubernetes&#39;, &#39;NodeJS&#39;, &#39;Python&#39;, &#39;ReactJS&#39;, &#39;TypeScript&#39;]</td>
+                        <td><a href = "https://berlinstartupjobs.com/engineering/senior-fullstack-developer-typescript-javascript-node-js-datatroniq/" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td>Senior Data Scientist</td>
+                        <td>DATATRONiQ</td>
+                        <td>
+			🚀 DATATRONiQ is a deep-tech 💪 startup in Germany, driving the future of Industrial IoT and Edge AI. Our platform provides a one-stop solution for companies to monitor, analyze, and optimize their assets and processes. Through advanced machine learning and real-time analytics, we transform high-quality industrial data into meaningful insights that drive smarter decisions. We...		</td>
+                        <td>[&#39;AI&#39;, &#39;Anomaly Detection&#39;, &#39;CI/CD&#39;, &#39;cloud&#39;, &#39;data engineering&#39;, &#39;Data Science&#39;, &#39;deep learning&#39;, &#39;Deep tech&#39;, &#39;Docker&#39;, &#39;Edge AI&#39;, &#39;IIoT&#39;, &#39;Industrial AI&#39;, &#39;Infrastructure&#39;, &#39;Kubernetes&#39;, &#39;Machine Learning&#39;, &#39;MLOps&#39;, &#39;Python&#39;, &#39;scaling&#39;, &#39;Time Series Analysis&#39;]</td>
+                        <td><a href = "https://berlinstartupjobs.com/engineering/senior-data-scientist-datatroniq/" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td>Senior Go Backend Developer</td>
+                        <td>DATATRONiQ</td>
+                        <td>
+			🚀 DATATRONiQ is a deep-tech 💪 startup for the Industrial IoT in Germany. Our platform offers a one-stop solution for manufacturing companies to monitor and optimize their machines and processes. Our device management and data acquisition technology generates high-quality data for our AI models deployed on the edge. We value collaboration, honest feedback, and continuous...		</td>
+                        <td>[&#39;Backend&#39;, &#39;Data Science&#39;, &#39;Deep tech&#39;, &#39;Docker&#39;, &#39;Go&#39;, &#39;Golang&#39;, &#39;JavaScript&#39;, &#39;Kubernetes&#39;, &#39;NodeJS&#39;, &#39;Python&#39;, &#39;ReactJS&#39;, &#39;TypeScript&#39;]</td>
+                        <td><a href = "https://berlinstartupjobs.com/engineering/senior-backend-developer-golang-m-f-d-datatroniq/" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td>IT Developer</td>
+                        <td>GreenAutarky</td>
+                        <td>
+			We are a Berlin company with international employees working on decentral collaborative AI services in real estate. We change how people live and work, by making buildings think and act adaptive to occupant needs. It is not another App. We save highest possible energy and run AI in compliance with GDPR. We look for developers...		</td>
+                        <td>[&#39;AI&#39;, &#39;Edge&#39;, &#39;Energy-efficiency&#39;, &#39;GDPR&#39;, &#39;Python&#39;]</td>
+                        <td><a href = "https://berlinstartupjobs.com/engineering/it-developer-greenautarky-gmbh/" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td>Backend Engineer</td>
+                        <td>EquiMatch</td>
+                        <td>
+			Company Description EquiMatch simplifies mergers and acquisitions (M&amp;A) origination using AI-driven research and personalized outreach. We use AI to create a qualified target list for buyers and M&amp;A advisors, eliminating the need for in-house analysts with no upfront costs – you only pay for successful deals. For sellers, we adopt a respectful, personalized approach aligned...		</td>
+                        <td>[&#39;Backend&#39;, &#39;Python&#39;, &#39;TypeScript&#39;]</td>
+                        <td><a href = "https://berlinstartupjobs.com/engineering/backend-engineer-equimatch-gmbh/" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td>Senior Software Engineer – Secure AI Infrastructure</td>
+                        <td>Edgeless Systems</td>
+                        <td>
+			We are a fast-growing venture-backed cybersecurity startup. Join us in developing the next generation of secure AI and cloud software, explore cutting-edge technologies like confidential computing, and grow in and alongside a world-class team Our product Privatemode AI is our secure alternative to ChatGPT. It enables AI workflows with sensitive data by keeping all data...		</td>
+                        <td>[&#39;AI&#39;, &#39;Cybersecurity&#39;, &#39;GenAI&#39;, &#39;Golang&#39;, &#39;LLMs&#39;, &#39;Python&#39;]</td>
+                        <td><a href = "https://berlinstartupjobs.com/engineering/senior-software-engineer-secure-ai-infrastructure-edgeless-systems/" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td>Senior Product Engineer</td>
+                        <td>GAIA</td>
+                        <td>
+			About GAIA GAIA is revolutionising the legal industry with AI that automates legal work and empowers legal professionals to work more efficiently and effectively. We’re building the future of legal technology, and we are looking for a driven, versatile person to help accelerate our growth. The Role As we scale, we’re looking for an exceptional...		</td>
+                        <td>[&#39;AI&#39;, &#39;LLM&#39;, &#39;Python&#39;]</td>
+                        <td><a href = "https://berlinstartupjobs.com/engineering/senior-product-engineer-gaia-law/" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td>Lead Engineer – AI &amp; Logistics</td>
+                        <td>NexDash</td>
+                        <td>
+			NexDash is building Europe’s first Neo-Carrier: electrified, AI-orchestrated, and soon autonomous. 🚛⚡ At the heart of our vision is NexOS — a next-gen orchestration platform that powers fleet electrification, route optimization, charging, and eventually autonomous logistics. We’re looking for a Lead Engineer to build NexOS from scratch. You’ll be the first dedicated engineer, working directly...		</td>
+                        <td>[&#39;AI&#39;, &#39;fleet management&#39;, &#39;Full stack&#39;, &#39;lead engineer&#39;, &#39;logistics tech&#39;, &#39;ML&#39;, &#39;Mobility&#39;, &#39;orchestration&#39;, &#39;Python&#39;]</td>
+                        <td><a href = "https://berlinstartupjobs.com/engineering/lead-engineer-ai-logistics-nexdash/" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td>Backend/AI Engineer &amp; UI/UX Engineer</td>
+                        <td>Deep Film Inc.</td>
+                        <td>
+			Backend/AI Engineer &amp; UI/UX Engineer You’re here to reshape the film industry with AI. At Deep Film Inc., you’ll transform multimodal diffusion and transformer models into production-ready systems, mastering quantization and pruning to make them leaner and faster. Your CI/CD pipelines and MLflow integrations won’t just keep us running, they’ll redefine storytelling. You’ll scale training...		</td>
+                        <td>[&#39;Backend&#39;, &#39;Frontend&#39;, &#39;Python&#39;]</td>
+                        <td><a href = "https://berlinstartupjobs.com/engineering/backend-ai-engineer-ui-ux-engineer-deep-film-inc/" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td>Founding Backend/Platform Engineer (Remote)</td>
+                        <td>MobileBoost</td>
+                        <td>
+			We are looking for a motivated Backend/Platform Engineer to join our remote team and help build the foundation of our AI-native QA solution. This is a unique opportunity to join before our Series A and have a major impact on a fast-moving product and team backed by Y Combinator (S21). About Us: We’re a Seed...		</td>
+                        <td>[&#39;Backend&#39;, &#39;Mobile&#39;, &#39;Python&#39;]</td>
+                        <td><a href = "https://berlinstartupjobs.com/engineering/founding-backend-platform-engineer-remote-mobileboost/" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td>Python/AI Senior engineers</td>
+                        <td>Intermezzo</td>
+                        <td>
+			Intermezzo is a California based startup. We are building a modern payroll platform. We are looking to expand in Germany and are looking for seasoned engineers. The key attributes we are looking for: 1. Cultural fit Own the outcome Curiosity and inquisitiveness Customer centric 2. Technology fit Python Experience Pydantic, langchain a plus API development...		</td>
+                        <td>[&#39;graph databases&#39;, &#39;HR-Tech&#39;, &#39;langsmith&#39;, &#39;Payroll&#39;, &#39;Pydantic&#39;, &#39;Python&#39;]</td>
+                        <td><a href = "https://berlinstartupjobs.com/engineering/python-ai-senior-engineers-intermezzo-inc/" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td>AI &amp; Automation Engineer (m/f/x)</td>
+                        <td>Tracks &amp; Fields</td>
+                        <td>
+			We are seeking a highly skilled AI and Automation Engineer to spearhead the development of our on-premise AI systems. This role involves testing cutting-edge AI models, and architecting an agent-based framework to optimize task management and execution. The ideal candidate will possess a blend of expertise in AI, systems engineering, and automation, with a focus...		</td>
+                        <td>[&#39;AI&#39;, &#39;ai agent&#39;, &#39;ai model&#39;, &#39;Automation&#39;, &#39;KI&#39;, &#39;Python&#39;, &#39;Software Development&#39;]</td>
+                        <td><a href = "https://berlinstartupjobs.com/engineering/ai-automation-engineer-m-f-x-tracks-fields/" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td>Principal Software Engineer- Medical Imaging (m/f/d)</td>
+                        <td>DeepSpin</td>
+                        <td>
+			DeepSpin is a HealthTech startup pursuing the mission to make Magnetic Resonance Imaging universally accessible. Today 7 out of 10 people globally do not have access to this life-saving imaging modality. Through our cutting-edge technology we are going to change that. Backed by globally leading VCs, we are now expanding our world-class team. This is...		</td>
+                        <td>[&#39;IEC 62304&#39;, &#39;Medical Device&#39;, &#39;Python&#39;, &#39;Software Development&#39;]</td>
+                        <td><a href = "https://berlinstartupjobs.com/engineering/principal-software-engineer-medical-imaging-m-f-d-deepspin-gmbh/" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                </tbody>
+            </table>
+        </figure>
+
+        
+    </main>
+    
+</body>
+</html>

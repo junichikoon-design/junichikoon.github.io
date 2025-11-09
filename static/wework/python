@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search research</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+</head>
+<body>
+    <main class="container">
+        <hgroup>
+            <h1>Search research for "python" : </h1>
+            <a target="_blank" href="/export_weworkremotely?keyword=python">Export to file</a>
+        </hgroup>
+        <figure>
+            <table class="striped">
+                <thead data-theme="light">
+                    <tr>
+                        <th>Title</th>
+                        <th>Company</th>
+                        <th>Location</th>
+                        <th>Keywords</th>
+                        <th>Category</th>
+                        <th>Link</th>
+                    </tr>
+                </thead>
+                <tbody>
+                
+                    <tr>
+                        <td> Senior Python Backend Engineer (m/f/x) </td>
+                        <td> Makersite </td>
+                        <td> BE, Germany </td>
+                        <td>Full-Time</td>
+                        <td>Design JobsLatest post 6 days ago</td>
+                        <td><a href = "" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td> Backend Engineer- Python/Django </td>
+                        <td> Search Atlas </td>
+                        <td> New York, NY </td>
+                        <td>Full-Time, $50,000 - $74,999 USD, Anywhere in the World</td>
+                        <td>Design JobsLatest post 6 days ago</td>
+                        <td><a href = "" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td> Senior Backend Developer (Python) </td>
+                        <td> Proxify AB </td>
+                        <td> Sweden </td>
+                        <td>Top 100, Full-Time, Anywhere in the World</td>
+                        <td>Back-End Programming JobsLatest post 4 days ago</td>
+                        <td><a href = "" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td> Lead Backend Engineer (Python/Django) </td>
+                        <td> Search Atlas </td>
+                        <td> New York, NY </td>
+                        <td>Full-Time, $50,000 - $74,999 USD, Anywhere in the World</td>
+                        <td>Back-End Programming JobsLatest post 4 days ago</td>
+                        <td><a href = "" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td> Senior Software Engineer - Backend/Python - USA Only (100% Remote) </td>
+                        <td> Close </td>
+                        <td> USA </td>
+                        <td>Top 100, Full-Time, $100,000 or more USD, Anywhere in the World</td>
+                        <td>Back-End Programming JobsLatest post 4 days ago</td>
+                        <td><a href = "" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                    <tr>
+                        <td> Senior Python Engineer </td>
+                        <td> Valory AG </td>
+                        <td> Zug, Switzerland </td>
+                        <td>Full-Time, $100,000 or more USD, Anywhere in the World</td>
+                        <td>Back-End Programming JobsLatest post 4 days ago</td>
+                        <td><a href = "" target = "_blank"> Apply now &rarr;</a></td>
+                    </tr>
+                
+                </tbody>
+            </table>
+        </figure>
+
+        
+    </main>
+    
+</body>
+</html>
